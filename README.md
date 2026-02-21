@@ -11,6 +11,12 @@ SHGM KDM sistemine hızlı iş kaydı girişi için React Native uygulaması.
 - **Salla & Doldur**: Telefonu sallayarak boş slotları otomatik doldurma
 - **Geçmiş Görünüm**: Kayıtlı işleri görüntüleme ve silme
 
+## Ekran Görüntüleri
+
+| Login | İş Kaydı | Salla Özelliği |
+|:-----:|:--------:|:--------------:|
+| ![login](assets/screenshots/login.jpeg) | ![kayit](assets/screenshots/kayıt.jpeg) | ![salla](assets/screenshots/salla.jpeg) |
+
 ## Kurulum
 
 ```bash
@@ -28,12 +34,6 @@ npx eas build --platform android --profile preview
 npx eas build --platform ios --profile preview
 ```
 
-## Ekran Görüntüleri
-
-Login | İş Kaydı | İş Seçimi
-------|----------|----------
-![login](assets/screenshots/login.png) | ![main](assets/screenshots/main.png) | ![modal](assets/screenshots/modal.png)
-
 ## Teknolojiler
 
 - React Native
@@ -50,3 +50,7 @@ Login | İş Kaydı | İş Seçimi
 ### v1.0.3
 - İlk kararlı sürüm
 - SHGM API entegrasyonu
+
+## İndir
+
+📱 **[Son APK İndir](https://expo.dev/artifacts/eas/rskquMubb8xXHBimA3Ppre.apk)**
